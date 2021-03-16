@@ -1,0 +1,12 @@
+
+This is simple Python program to find day of the week for a given date 
+
+Python version: Python 2 and more
+
+import lab: datetime
+
+input: date formate dd mm yyyy - eg. 16 03 2021
+
+timeobj.weekday(): Return the day of the week as an integer, where Monday is 0 and Sunday is 6.
+
+output: show day on given date - eg. Tuesday
